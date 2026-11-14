@@ -1,0 +1,11 @@
+# Environment variables (contains API keys)
+.env
+
+# Python bytecode / cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
